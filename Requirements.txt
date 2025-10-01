@@ -1,0 +1,10 @@
+django>=4.2
+djangorestframework
+psycopg2-binary
+django-cors-headers
+Pillow
+django-filter
+drf-yasg
+gunicorn
+python-dotenv
+requests
